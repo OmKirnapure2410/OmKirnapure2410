@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Job Portal**
 
-- 🌱 I’m currently learning **React.js, Express.js, Node.js**
+- 🌱 I’m currently learning **React.js, Express.js, Node.js & MongoDB**
 
 - My Portfolio https://om-kirnapure-portfolio.netlify.app/
 
